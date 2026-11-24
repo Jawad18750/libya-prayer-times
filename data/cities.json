@@ -1,0 +1,978 @@
+[
+  {
+    "slug": "abu-qurayn",
+    "name_ar": "أبو قرين",
+    "name_en": "Abu Qurayn",
+    "lat": 31.45507,
+    "lng": 15.25467,
+    "new_fajr": true
+  },
+  {
+    "slug": "abokemmash",
+    "name_ar": "أبوكماش",
+    "name_en": "Abokemmash",
+    "lat": 33.07388,
+    "lng": 11.73622,
+    "new_fajr": false
+  },
+  {
+    "slug": "ubari",
+    "name_ar": "أوباري",
+    "name_en": "Ubari",
+    "lat": 26.58333,
+    "lng": 12.76667,
+    "new_fajr": true
+  },
+  {
+    "slug": "awjalh",
+    "name_ar": "أوجلة",
+    "name_en": "Awjalh",
+    "lat": 29.10806,
+    "lng": 21.28694,
+    "new_fajr": true
+  },
+  {
+    "slug": "awlad-mahmoud",
+    "name_ar": "أولاد محمود",
+    "name_en": "Awlad Mahmoud",
+    "lat": 31.82594,
+    "lng": 11.04792,
+    "new_fajr": false
+  },
+  {
+    "slug": "ajdabiya",
+    "name_ar": "إجدابيا",
+    "name_en": "Ajdabiya",
+    "lat": 30.80083,
+    "lng": 20.19012,
+    "new_fajr": true
+  },
+  {
+    "slug": "edrishatti",
+    "name_ar": "إدري الشاطئ",
+    "name_en": "Edrishatti",
+    "lat": 27.44693,
+    "lng": 13.05233,
+    "new_fajr": false
+  },
+  {
+    "slug": "emsaed",
+    "name_ar": "إمساعد",
+    "name_en": "Emsaed",
+    "lat": 31.60252,
+    "lng": 25.05089,
+    "new_fajr": true
+  },
+  {
+    "slug": "ijkharra",
+    "name_ar": "اجخرة",
+    "name_en": "Ijkharra",
+    "lat": 29.29969,
+    "lng": 21.64876,
+    "new_fajr": true
+  },
+  {
+    "slug": "alasabaa",
+    "name_ar": "الأصابعة",
+    "name_en": "Alasabaa",
+    "lat": 32.03992,
+    "lng": 12.8735,
+    "new_fajr": false
+  },
+  {
+    "slug": "abraq",
+    "name_ar": "الأبرق",
+    "name_en": "Abraq",
+    "lat": 32.79244,
+    "lng": 21.98983,
+    "new_fajr": true
+  },
+  {
+    "slug": "abariqah",
+    "name_ar": "البريقة",
+    "name_en": "Abariqah",
+    "lat": 30.48004,
+    "lng": 19.73763,
+    "new_fajr": true
+  },
+  {
+    "slug": "albaydaa",
+    "name_ar": "البيضاء",
+    "name_en": "Albaydaa",
+    "lat": 32.76518,
+    "lng": 21.7495,
+    "new_fajr": true
+  },
+  {
+    "slug": "aljaghbub",
+    "name_ar": "الجغبوب",
+    "name_en": "Aljaghbub",
+    "lat": 29.74261,
+    "lng": 24.51674,
+    "new_fajr": false
+  },
+  {
+    "slug": "jomail",
+    "name_ar": "الجميل",
+    "name_en": "Jomail",
+    "lat": 32.85341,
+    "lng": 12.05678,
+    "new_fajr": false
+  },
+  {
+    "slug": "joush",
+    "name_ar": "الجوش",
+    "name_en": "Joush",
+    "lat": 31.99318,
+    "lng": 11.67067,
+    "new_fajr": false
+  },
+  {
+    "slug": "hawamid",
+    "name_ar": "الحوامد",
+    "name_en": "Hawamid",
+    "lat": 31.97462,
+    "lng": 11.15942,
+    "new_fajr": false
+  },
+  {
+    "slug": "alkhums",
+    "name_ar": "الخمس",
+    "name_en": "Alkhums",
+    "lat": 32.63417,
+    "lng": 14.25133,
+    "new_fajr": false
+  },
+  {
+    "slug": "arejban",
+    "name_ar": "الرجبان",
+    "name_en": "Arejban",
+    "lat": 31.98319,
+    "lng": 12.11123,
+    "new_fajr": false
+  },
+  {
+    "slug": "rohaibat",
+    "name_ar": "الرحيبات",
+    "name_en": "Rohaibat",
+    "lat": 31.87954,
+    "lng": 11.89468,
+    "new_fajr": false
+  },
+  {
+    "slug": "aryayna",
+    "name_ar": "الرياينة",
+    "name_en": "Aryayna",
+    "lat": 31.993,
+    "lng": 12.345,
+    "new_fajr": false
+  },
+  {
+    "slug": "alzawiah",
+    "name_ar": "الزاوية",
+    "name_en": "Alzawiah",
+    "lat": 32.74974,
+    "lng": 12.72423,
+    "new_fajr": false
+  },
+  {
+    "slug": "azentan",
+    "name_ar": "الزنتان",
+    "name_en": "Azentan",
+    "lat": 31.9293,
+    "lng": 12.25267,
+    "new_fajr": false
+  },
+  {
+    "slug": "sharqeyah",
+    "name_ar": "الشرقية",
+    "name_en": "Sharqeyah",
+    "lat": 26.09,
+    "lng": 14.94,
+    "new_fajr": false
+  },
+  {
+    "slug": "sha-wa",
+    "name_ar": "الشعواء",
+    "name_en": "Sha Wa",
+    "lat": 30.983,
+    "lng": 10.551,
+    "new_fajr": false
+  },
+  {
+    "slug": "alshgega",
+    "name_ar": "الشقيقة",
+    "name_en": "Alshgega",
+    "lat": 31.63827,
+    "lng": 12.80573,
+    "new_fajr": true
+  },
+  {
+    "slug": "shwayrif",
+    "name_ar": "الشويرف",
+    "name_en": "Shwayrif",
+    "lat": 29.98159,
+    "lng": 14.26112,
+    "new_fajr": false
+  },
+  {
+    "slug": "elajelat",
+    "name_ar": "العجيلات",
+    "name_en": "Elajelat",
+    "lat": 32.75731,
+    "lng": 12.37649,
+    "new_fajr": false
+  },
+  {
+    "slug": "urban",
+    "name_ar": "العربان",
+    "name_en": "Urban",
+    "lat": 32.03492,
+    "lng": 13.28304,
+    "new_fajr": false
+  },
+  {
+    "slug": "azizayah",
+    "name_ar": "العزيزية",
+    "name_en": "Azizayah",
+    "lat": 32.53096,
+    "lng": 13.01803,
+    "new_fajr": false
+  },
+  {
+    "slug": "alessah",
+    "name_ar": "العسة",
+    "name_en": "Alessah",
+    "lat": 32.82932,
+    "lng": 11.62987,
+    "new_fajr": true
+  },
+  {
+    "slug": "alghazaya",
+    "name_ar": "الغزايا",
+    "name_en": "Alghazaya",
+    "lat": 32.00247,
+    "lng": 10.83341,
+    "new_fajr": false
+  },
+  {
+    "slug": "foqaha",
+    "name_ar": "الفقهاء",
+    "name_en": "Foqaha",
+    "lat": 27.81241,
+    "lng": 16.39018,
+    "new_fajr": true
+  },
+  {
+    "slug": "qubba",
+    "name_ar": "القبة",
+    "name_en": "Qubba",
+    "lat": 32.7627,
+    "lng": 22.23831,
+    "new_fajr": true
+  },
+  {
+    "slug": "qordashatti",
+    "name_ar": "القرضة الشاطئ",
+    "name_en": "Qordashatti",
+    "lat": 27.49224,
+    "lng": 13.97204,
+    "new_fajr": false
+  },
+  {
+    "slug": "qarabolle",
+    "name_ar": "القره بوللي",
+    "name_en": "Qarabolle",
+    "lat": 32.74397,
+    "lng": 13.71517,
+    "new_fajr": false
+  },
+  {
+    "slug": "great",
+    "name_ar": "القريات",
+    "name_en": "Great",
+    "lat": 30.38823,
+    "lng": 13.58065,
+    "new_fajr": true
+  },
+  {
+    "slug": "algatron",
+    "name_ar": "القطرون",
+    "name_en": "Algatron",
+    "lat": 24.9268,
+    "lng": 14.57623,
+    "new_fajr": true
+  },
+  {
+    "slug": "qaara",
+    "name_ar": "القعرة",
+    "name_en": "Qaara",
+    "lat": 31.95449,
+    "lng": 24.20087,
+    "new_fajr": true
+  },
+  {
+    "slug": "qalaa",
+    "name_ar": "القلعة",
+    "name_en": "Qalaa",
+    "lat": 32.06404,
+    "lng": 12.56421,
+    "new_fajr": false
+  },
+  {
+    "slug": "alkafrah",
+    "name_ar": "الكفرة",
+    "name_en": "Alkafrah",
+    "lat": 24.2,
+    "lng": 23.29,
+    "new_fajr": true
+  },
+  {
+    "slug": "majabrah",
+    "name_ar": "المجابرة",
+    "name_en": "Majabrah",
+    "lat": 31.85888,
+    "lng": 11.1594,
+    "new_fajr": false
+  },
+  {
+    "slug": "almarag",
+    "name_ar": "المرج",
+    "name_en": "Almarag",
+    "lat": 32.48181,
+    "lng": 20.83763,
+    "new_fajr": true
+  },
+  {
+    "slug": "mshashia",
+    "name_ar": "المشاشية",
+    "name_en": "Mshashia",
+    "lat": 31.97858,
+    "lng": 12.48481,
+    "new_fajr": false
+  },
+  {
+    "slug": "wishka",
+    "name_ar": "الوشكة",
+    "name_en": "Wishka",
+    "lat": 31.36154,
+    "lng": 15.57279,
+    "new_fajr": true
+  },
+  {
+    "slug": "abogharb",
+    "name_ar": "أبو الغرب",
+    "name_en": "Abogharb",
+    "lat": 30.66913,
+    "lng": 13.59055,
+    "new_fajr": false
+  },
+  {
+    "slug": "umrezam",
+    "name_ar": "أم الرزم",
+    "name_en": "Umrezam",
+    "lat": 32.53455,
+    "lng": 23.00617,
+    "new_fajr": true
+  },
+  {
+    "slug": "beershahab",
+    "name_ar": "بئر الأشهب",
+    "name_en": "Beershahab",
+    "lat": 31.8851,
+    "lng": 24.6574,
+    "new_fajr": true
+  },
+  {
+    "slug": "badr",
+    "name_ar": "بدر",
+    "name_en": "Badr",
+    "lat": 32.05542,
+    "lng": 11.54253,
+    "new_fajr": false
+  },
+  {
+    "slug": "brak",
+    "name_ar": "براك الشاطئ",
+    "name_en": "Brak",
+    "lat": 27.55,
+    "lng": 14.2713,
+    "new_fajr": false
+  },
+  {
+    "slug": "barqinshatti",
+    "name_ar": "برقن الشاطئ",
+    "name_en": "Barqinshatti",
+    "lat": 27.548,
+    "lng": 13.629,
+    "new_fajr": false
+  },
+  {
+    "slug": "benjuwad",
+    "name_ar": "بن جواد",
+    "name_en": "Benjuwad",
+    "lat": 30.78845,
+    "lng": 18.08968,
+    "new_fajr": false
+  },
+  {
+    "slug": "bentbeyah",
+    "name_ar": "بنت بية",
+    "name_en": "Bentbeyah",
+    "lat": 26.64615,
+    "lng": 13.65162,
+    "new_fajr": true
+  },
+  {
+    "slug": "benghazi",
+    "name_ar": "بنغازي",
+    "name_en": "Benghazi",
+    "lat": 32.10104,
+    "lng": 20.08644,
+    "new_fajr": true
+  },
+  {
+    "slug": "bany-walead",
+    "name_ar": "بني وليد",
+    "name_en": "Bany Walead",
+    "lat": 31.75766,
+    "lng": 13.99143,
+    "new_fajr": false
+  },
+  {
+    "slug": "tazerbo",
+    "name_ar": "تازربو",
+    "name_en": "Tazerbo",
+    "lat": 25.67393,
+    "lng": 21.08516,
+    "new_fajr": true
+  },
+  {
+    "slug": "trahgen",
+    "name_ar": "تراغن",
+    "name_en": "Trahgen",
+    "lat": 25.93006,
+    "lng": 14.43755,
+    "new_fajr": true
+  },
+  {
+    "slug": "tarhouna",
+    "name_ar": "ترهونة",
+    "name_en": "Tarhouna",
+    "lat": 32.43296,
+    "lng": 13.6345,
+    "new_fajr": false
+  },
+  {
+    "slug": "temesa",
+    "name_ar": "تمسة",
+    "name_en": "Temesa",
+    "lat": 26.39521,
+    "lng": 15.7842,
+    "new_fajr": false
+  },
+  {
+    "slug": "tiji",
+    "name_ar": "تيجي",
+    "name_en": "Tiji",
+    "lat": 32.0114,
+    "lng": 11.35621,
+    "new_fajr": false
+  },
+  {
+    "slug": "jadou",
+    "name_ar": "جادو",
+    "name_en": "Jadou",
+    "lat": 31.95754,
+    "lng": 12.02631,
+    "new_fajr": false
+  },
+  {
+    "slug": "jalo",
+    "name_ar": "جالو",
+    "name_en": "Jalo",
+    "lat": 29.0284,
+    "lng": 21.5366,
+    "new_fajr": true
+  },
+  {
+    "slug": "entesar",
+    "name_ar": "حقل الانتصار",
+    "name_en": "Entesar",
+    "lat": 28.90954,
+    "lng": 20.96071,
+    "new_fajr": false
+  },
+  {
+    "slug": "bori",
+    "name_ar": "حقل البوري",
+    "name_en": "Bori",
+    "lat": 34.0822,
+    "lng": 12.7867,
+    "new_fajr": false
+  },
+  {
+    "slug": "baidhafield",
+    "name_ar": "حقل البيضاء",
+    "name_en": "Baidhafield",
+    "lat": 28.42915,
+    "lng": 19.03778,
+    "new_fajr": false
+  },
+  {
+    "slug": "jorof",
+    "name_ar": "حقل الجرف البحري",
+    "name_en": "Jorof",
+    "lat": 33.52995,
+    "lng": 12.30001,
+    "new_fajr": false
+  },
+  {
+    "slug": "hamada",
+    "name_ar": "حقل الحمادة",
+    "name_en": "Hamada",
+    "lat": 30.02308,
+    "lng": 12.13971,
+    "new_fajr": false
+  },
+  {
+    "slug": "sareer",
+    "name_ar": "حقل السرير",
+    "name_en": "Sareer",
+    "lat": 27.64963,
+    "lng": 22.5005,
+    "new_fajr": false
+  },
+  {
+    "slug": "samah",
+    "name_ar": "حقل السماح",
+    "name_en": "Samah",
+    "lat": 28.16401,
+    "lng": 19.1691,
+    "new_fajr": false
+  },
+  {
+    "slug": "sharara",
+    "name_ar": "حقل الشرارة",
+    "name_en": "Sharara",
+    "lat": 26.57481,
+    "lng": 12.22692,
+    "new_fajr": false
+  },
+  {
+    "slug": "ubari-elfeel",
+    "name_ar": "حقل الفيل",
+    "name_en": "Ubari Elfeel",
+    "lat": 26.0484,
+    "lng": 11.98058,
+    "new_fajr": false
+  },
+  {
+    "slug": "waha",
+    "name_ar": "حقل الواحة",
+    "name_en": "Waha",
+    "lat": 28.29849,
+    "lng": 19.92323,
+    "new_fajr": false
+  },
+  {
+    "slug": "wafa",
+    "name_ar": "حقل الوفاء",
+    "name_en": "Wafa",
+    "lat": 28.89644,
+    "lng": 10.04158,
+    "new_fajr": false
+  },
+  {
+    "slug": "tebesti",
+    "name_ar": "حقل تيبستي",
+    "name_en": "Tebesti",
+    "lat": 28.59919,
+    "lng": 19.31797,
+    "new_fajr": false
+  },
+  {
+    "slug": "darj",
+    "name_ar": "درج",
+    "name_en": "Darj",
+    "lat": 30.16584,
+    "lng": 10.45916,
+    "new_fajr": true
+  },
+  {
+    "slug": "darnah",
+    "name_ar": "درنة",
+    "name_en": "Darnah",
+    "lat": 32.76129,
+    "lng": 22.63527,
+    "new_fajr": true
+  },
+  {
+    "slug": "rasejdair",
+    "name_ar": "رأس جدير",
+    "name_en": "Rasejdair",
+    "lat": 33.14851,
+    "lng": 11.56709,
+    "new_fajr": false
+  },
+  {
+    "slug": "raslanof",
+    "name_ar": "رأس لانوف",
+    "name_en": "Raslanof",
+    "lat": 30.57468,
+    "lng": 18.41789,
+    "new_fajr": false
+  },
+  {
+    "slug": "reqdaleen",
+    "name_ar": "رقدالين",
+    "name_en": "Reqdaleen",
+    "lat": 32.88701,
+    "lng": 11.9861,
+    "new_fajr": false
+  },
+  {
+    "slug": "zallah",
+    "name_ar": "زلة",
+    "name_en": "Zallah",
+    "lat": 28.55611,
+    "lng": 17.54483,
+    "new_fajr": true
+  },
+  {
+    "slug": "zultun",
+    "name_ar": "زلطن",
+    "name_en": "Zultun",
+    "lat": 32.94743,
+    "lng": 11.8642,
+    "new_fajr": false
+  },
+  {
+    "slug": "zliten",
+    "name_ar": "زليتن",
+    "name_en": "Zliten",
+    "lat": 32.46285,
+    "lng": 14.56581,
+    "new_fajr": false
+  },
+  {
+    "slug": "zwara",
+    "name_ar": "زوارة",
+    "name_en": "Zwara",
+    "lat": 32.9332,
+    "lng": 12.08702,
+    "new_fajr": false
+  },
+  {
+    "slug": "sabha",
+    "name_ar": "سبها",
+    "name_en": "Sabha",
+    "lat": 27.13476,
+    "lng": 14.42505,
+    "new_fajr": true
+  },
+  {
+    "slug": "sert",
+    "name_ar": "سرت",
+    "name_en": "Sert",
+    "lat": 31.19812,
+    "lng": 16.60103,
+    "new_fajr": false
+  },
+  {
+    "slug": "salooq",
+    "name_ar": "سلوق",
+    "name_en": "Salooq",
+    "lat": 31.67086,
+    "lng": 20.26057,
+    "new_fajr": true
+  },
+  {
+    "slug": "susah",
+    "name_ar": "سوسة",
+    "name_en": "Susah",
+    "lat": 32.89715,
+    "lng": 21.96883,
+    "new_fajr": false
+  },
+  {
+    "slug": "sokna",
+    "name_ar": "سوكنة",
+    "name_en": "Sokna",
+    "lat": 29.06778,
+    "lng": 15.78626,
+    "new_fajr": true
+  },
+  {
+    "slug": "shahat",
+    "name_ar": "شحات",
+    "name_en": "Shahat",
+    "lat": 32.8271,
+    "lng": 21.87309,
+    "new_fajr": true
+  },
+  {
+    "slug": "shakshouk",
+    "name_ar": "شكشوك",
+    "name_en": "Shakshouk",
+    "lat": 32.01943,
+    "lng": 11.95401,
+    "new_fajr": false
+  },
+  {
+    "slug": "sobrata",
+    "name_ar": "صبراتة",
+    "name_en": "Sobrata",
+    "lat": 32.79057,
+    "lng": 12.48467,
+    "new_fajr": false
+  },
+  {
+    "slug": "surman",
+    "name_ar": "صرمان",
+    "name_en": "Surman",
+    "lat": 32.75746,
+    "lng": 12.57437,
+    "new_fajr": false
+  },
+  {
+    "slug": "tobruk",
+    "name_ar": "طبرق",
+    "name_en": "Tobruk",
+    "lat": 32.07152,
+    "lng": 23.96324,
+    "new_fajr": true
+  },
+  {
+    "slug": "tabaqah",
+    "name_ar": "طبقة",
+    "name_en": "Tabaqah",
+    "lat": 30.43183,
+    "lng": 13.30467,
+    "new_fajr": true
+  },
+  {
+    "slug": "tripoli",
+    "name_ar": "طرابلس",
+    "name_en": "Tripoli",
+    "lat": 32.88132,
+    "lng": 13.19252,
+    "new_fajr": false
+  },
+  {
+    "slug": "tamzin",
+    "name_ar": "طمزين",
+    "name_en": "Tamzin",
+    "lat": 31.85218,
+    "lng": 11.4172,
+    "new_fajr": false
+  },
+  {
+    "slug": "dhaherjabal",
+    "name_ar": "ظاهر الجبل",
+    "name_en": "Dhaherjabal",
+    "lat": 31.99444,
+    "lng": 12.55973,
+    "new_fajr": false
+  },
+  {
+    "slug": "ainghazala",
+    "name_ar": "عين الغزالة",
+    "name_en": "Ainghazala",
+    "lat": 32.14455,
+    "lng": 23.35804,
+    "new_fajr": true
+  },
+  {
+    "slug": "ghat",
+    "name_ar": "غات",
+    "name_en": "Ghat",
+    "lat": 24.9588,
+    "lng": 10.17787,
+    "new_fajr": true
+  },
+  {
+    "slug": "ekdames",
+    "name_ar": "غدامس",
+    "name_en": "Ekdames",
+    "lat": 30.13333,
+    "lng": 9.5,
+    "new_fajr": false
+  },
+  {
+    "slug": "gharyan",
+    "name_ar": "غريان",
+    "name_en": "Gharyan",
+    "lat": 32.1679,
+    "lng": 13.0185,
+    "new_fajr": false
+  },
+  {
+    "slug": "gaser-khyar",
+    "name_ar": "قصر الأخيار",
+    "name_en": "Gaser Khyar",
+    "lat": 32.7092,
+    "lng": 13.9355,
+    "new_fajr": false
+  },
+  {
+    "slug": "qaserjadi",
+    "name_ar": "قصر الجدي",
+    "name_en": "Qaserjadi",
+    "lat": 31.85148,
+    "lng": 24.78857,
+    "new_fajr": true
+  },
+  {
+    "slug": "qmenes",
+    "name_ar": "قمينس",
+    "name_en": "Qmenes",
+    "lat": 31.66027,
+    "lng": 20.01976,
+    "new_fajr": true
+  },
+  {
+    "slug": "kabaw",
+    "name_ar": "كاباو",
+    "name_en": "Kabaw",
+    "lat": 31.8434,
+    "lng": 11.33784,
+    "new_fajr": false
+  },
+  {
+    "slug": "kikla",
+    "name_ar": "ككلة",
+    "name_en": "Kikla",
+    "lat": 32.06892,
+    "lng": 12.69087,
+    "new_fajr": false
+  },
+  {
+    "slug": "mrada",
+    "name_ar": "مرادة",
+    "name_en": "Mrada",
+    "lat": 29.22552,
+    "lng": 19.20679,
+    "new_fajr": true
+  },
+  {
+    "slug": "morzg-wadi-etba",
+    "name_ar": "مرزق",
+    "name_en": "Morzg Wadi Etba",
+    "lat": 25.9181,
+    "lng": 13.9221,
+    "new_fajr": true
+  },
+  {
+    "slug": "marsadefna",
+    "name_ar": "مرسى دفنة",
+    "name_en": "Marsadefna",
+    "lat": 31.99403,
+    "lng": 24.75255,
+    "new_fajr": true
+  },
+  {
+    "slug": "mezda",
+    "name_ar": "مزدة",
+    "name_en": "Mezda",
+    "lat": 31.44914,
+    "lng": 12.98495,
+    "new_fajr": true
+  },
+  {
+    "slug": "msalata",
+    "name_ar": "مسلاتة",
+    "name_en": "Msalata",
+    "lat": 32.58115,
+    "lng": 14.04076,
+    "new_fajr": false
+  },
+  {
+    "slug": "misrata",
+    "name_ar": "مصراتة",
+    "name_en": "Misrata",
+    "lat": 32.37242,
+    "lng": 15.10826,
+    "new_fajr": false
+  },
+  {
+    "slug": "naloot",
+    "name_ar": "نالوت",
+    "name_en": "Naloot",
+    "lat": 31.866,
+    "lng": 10.9818,
+    "new_fajr": false
+  },
+  {
+    "slug": "nesma",
+    "name_ar": "نسمة",
+    "name_en": "Nesma",
+    "lat": 31.39576,
+    "lng": 13.32819,
+    "new_fajr": true
+  },
+  {
+    "slug": "harawa",
+    "name_ar": "هراوة",
+    "name_en": "Harawa",
+    "lat": 31.0538,
+    "lng": 17.28422,
+    "new_fajr": true
+  },
+  {
+    "slug": "hoon",
+    "name_ar": "هون",
+    "name_en": "Hoon",
+    "lat": 29.12111,
+    "lng": 15.94028,
+    "new_fajr": true
+  },
+  {
+    "slug": "wadibawanees",
+    "name_ar": "وادي البوانيس",
+    "name_en": "Wadibawanees",
+    "lat": 27.36874,
+    "lng": 14.90664,
+    "new_fajr": true
+  },
+  {
+    "slug": "wadizamzam",
+    "name_ar": "وادي زمزم",
+    "name_en": "Wadizamzam",
+    "lat": 31.36176,
+    "lng": 15.24526,
+    "new_fajr": true
+  },
+  {
+    "slug": "wadiutba",
+    "name_ar": "وادي عتبة",
+    "name_en": "Wadiutba",
+    "lat": 26.08518,
+    "lng": 13.51021,
+    "new_fajr": true
+  },
+  {
+    "slug": "wazin",
+    "name_ar": "وازن",
+    "name_en": "Wazin",
+    "lat": 31.94169,
+    "lng": 10.66646,
+    "new_fajr": false
+  },
+  {
+    "slug": "weddan",
+    "name_ar": "ودان",
+    "name_en": "Weddan",
+    "lat": 29.16194,
+    "lng": 16.13985,
+    "new_fajr": true
+  },
+  {
+    "slug": "yefren",
+    "name_ar": "يفرن",
+    "name_en": "Yefren",
+    "lat": 32.05949,
+    "lng": 12.53096,
+    "new_fajr": false
+  }
+]
